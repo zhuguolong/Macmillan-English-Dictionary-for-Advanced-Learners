@@ -1,5 +1,5 @@
 |单词|翻译  |
-|:--:|:--:| 
+|:--:|--| 
 overseas	|adj. 海外的 adv. 在海外
 frail	|adj. 脆弱的, 虚弱的
 lawsuit	|n. 诉讼, 控诉

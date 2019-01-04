@@ -1,5 +1,5 @@
 |单词|翻译  |
-|:--:|:--:| 
+|:--:|--| 
 equally	|adv. 相等地, 同样地, 平等地
 contradiction	|n. 反驳,矛盾,不一致,否认
 inclusion	|n. 包含
