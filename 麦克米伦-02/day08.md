@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-ball	|n. 球, 舞会 v. (把...捏)成球状
-pack	|n. 包裹,一群,一副,一帮,一群 vt. 包装,捆扎,塞满, 收拾行李， 佩戴 vi. 包装，（用某物）保存，保藏 ,塞进
-sculpture	|n. 雕塑 vt. 雕刻,雕塑 vi. 当雕刻师
-consequently	|adv. 所以, 因此
-scarf	|n. 围巾
-know	|vt. &vi.知道,了解,认识
-lunchtime	|n. 午餐时间
-email	|n.电子信函
-film	|n. 电影, 胶卷, 薄膜 vt. 把...拍成电影, 给...覆上一薄层 vi. 从事电影拍摄
-connection	|n. 联系,关系,连接,亲戚
-bed	|n. 床，河床，底层，基座 vt. 铺床，去睡觉，安置，发生性关系 vi. 铺床，去睡觉，铺层，躺平
-thigh	|n. 大腿
-golf	|n. 高尔夫球 v. 打高尔夫球 vi. (打)高尔夫球
-uphold	|v. 支撑, 赞成, 鼓励
-proposed	|adj. 被提议的
-questionnaire	|n. 调查表
-model	|n. 模型, 模范, 模特儿 adj. 模范的, 作模型用的 v. 做模型, 塑造, 模仿
-plastic	|adj. 塑料的, 可塑的, 体态好的 n. 塑料,(外科)整形的,信用卡
-absorb	|v. 吸收,吸引...的注意,使全神贯注
-utterly	|adv. 完全, 全然, 绝对
+|	assumption  		|		n. 假定；设想；担任；采取	|		
+|	assurance  		|		n. 保证，担保；（人寿）保险；确信；断言；厚脸皮，无耻	|		
+|	assure  		|		vt. 保证；担保；使确信；弄清楚	|		
+|	asthma  		|		n. [中医] 哮喘，气喘	|		
+|	astonish  		|		vt. 使惊讶	|		
+|	astonished  		|		adj. 吃惊的	|		
+|	astonishing  		|		adj. 惊人的；令人惊讶的 v. 使…惊讶；使…诧异（astonish的ing形式）	|		
+|	astonishment  		|		n. 惊讶；令人惊讶的事物	|		
+|	astound  		|		vt. 使惊骇；使震惊	|		
+|	astronaut  		|		n. 宇航员，航天员；太空旅行者	|		
+|	astronomy  		|		n. 天文学	|		
+|	asylum  		|		n. 庇护；收容所，救济院	|		
+|	at  		|		prep. 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；达；因为；朝；忙于 n. 阿特（老挝货币基本单位att）；	|		
+|	athlete  		|		n. 运动员	|		
+|	athletic  		|		adj. 运动的，运动员的；体格健壮的	|		
+|	athletics  		|		n. 竞技；体育运动；田径运动	|		
+|	atmosphere  		|		n. 气氛；大气；空气	|		
+|	atmospheric  		|		adj. 大气的，大气层的	|		
+|	atom  		|		n. 原子	|		
+|	atomic  		|		adj. 原子的，原子能的；微粒子的	|		
+|	attach  		|		vi. 附加；附属；伴随 vt. 使依附；贴上；系上；使依恋	|

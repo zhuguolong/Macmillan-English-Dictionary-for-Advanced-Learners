@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-average	|n. 平均数,平均水平 adj. 一般的,通常的,平均的 vt. &vi. 取平均值，达到平均水平
-valuation	|n. 评价,估价,价值判断
-phone book	|n. 电话号码簿
-and	|conj. 和 逻辑与
-internationally	|adv. 在国际上
-terrific	|adj. 极好的,非常的,极度的
-MA	|n. &lt;口&gt;妈
-airport	|n. 机场
-grasp	|n. 把握,抓紧,领会 vt. 抓住,紧握,领会
-armchair	|n. 扶手椅，单人沙发，安乐椅 adj.不切实际的
-play	|n. 游戏,游玩,剧本,比赛,比赛中的动作,影响 vt. &vi. 玩,进行比赛,演奏,播放,捉弄,假装
-repair	|n. 修理, 补救 v. 修理, 补救, 补偿 n. 维修工作，维修状态 vi. 去，集合
-cooperative	|adj. 合作的,共同的 n. 合作社
-typical	|adj. 典型的, 有代表性的
-first	|adv. 首先,第一,优先 adj. 第一的, 最早的, 一流的 n. (序数词)第一, 第一个人或事物, (大学学位的)最优等, (汽车, 自行车等的)最低挡
-bathroom	|n. 浴室
-unhappy	|adj. 不快乐的,不幸的,不适当的
-note	|n. 笔记, 注解, 备忘录, 音符, 音调, 票据, 便条, 纸币 vt. 记录, 注解, 注意
-early	|adv.&amp;adj. 早
-worse	|adj. 更坏的,更差的 adv. 以更坏的方式,变得更坏 n. 更坏的事物
+|	an  		|		art. 一（在元音音素前）	|		
+|	analogue  		|		n. 类似物；类似情况；对等的人 adj. 类似的；相似物的；模拟计算机的	|		
+|	analogy  		|		n. 类比；类推；类似	|		
+|	analyse  		|		vt. 分析；分解；细察	|		
+|	analysis  		|		n. 分析；分解；验定	|		
+|	analyst  		|		n. 分析者；精神分析医师；分解者	|		
+|	analytical  		|		adj. 分析的	|		
+|	ancestor  		|		n. 始祖，祖先；被继承人	|		
+|	anchor  		|		n. 锚；抛锚停泊；靠山；新闻节目主播 adj. 末棒的；最后一棒的 vt. 抛锚；使固定；主持节目 vi. 抛锚	|		
+|	ancient  		|		n. 古代人；老人 adj. 古代的；古老的，过时的；年老的	|		
+|	and  		|		conj. 和，与；就；而且；但是；然后 n. (And)人名；(土、瑞典)安德	|		
+|	angel  		|		n. 天使；守护神；善人 vt. 出钱支持 n. (Angel)人名；(德、塞、俄、保、瑞典、挪)安格尔；(土)安盖尔；(法、葡)安热尔；(西)安赫尔；(英、罗)安杰尔	|		
+|	anger  		|		n. 怒，愤怒；忿怒 vt. 使发怒，激怒；恼火 vi. 发怒；恼火 n. (Anger)人名；(罗)安杰尔；(法)安热；(德、捷、瑞典)安格尔	|		
+|	angle  		|		n. 角度，角，方面 vi. 钓鱼；谋取	|		
+|	angry  		|		adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的	|		
+|	animal  		|		n. 动物 动物的	|		
+|	ankle  		|		n. 踝关节，踝	|		
+|	anniversary  		|		n. 周年纪念日	|		
+|	announce  		|		vt. 宣布；述说；预示；播报 vi. 宣布参加竞选；当播音员	|		
+|	announcement  		|		n. 公告；宣告；发表；通告	|		
+|	annoy  		|		n. 烦恼（等于annoyance） vt. 骚扰；惹恼；打搅 vi. 惹恼；令人讨厌；打搅	|

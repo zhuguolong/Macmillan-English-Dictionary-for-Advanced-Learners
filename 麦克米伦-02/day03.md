@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-compliment	|n. 称赞,恭维,(复数)致意 vt. 称赞,恭维
-fit	|adj. 适宜的,对的,准备好的 v. 适合,安装 n. 适宜,发作,一阵
-pole	|n. 极(点),杆子 vt. 跳,支撑 vi. 用篙撑船
-backward	|adj. 向后的 adv. 向后
-found	|vt. 创立，建立；创办 v. 找到（find的过去分词）
-million	|n. 百万,(the millions)群众 adj. 百万的,无数的
-seek	|n. 找寻 v. 寻求,寻找,搜索
-rule	|n. 惯例,规则,统治 v. 裁定,统治,支配 vi. 裁决,统治 vt. 统治
-kneel	|v. 跪
-retail	|n. 零售 vt. 零售 adj. 零售的 adv. 以零售形式
-later	|adj. 更迟的,后面的 adv. 稍后,后来, 迟到地
-trial	|n.试验； [法]审讯，审判； 磨难，困难； [体]选拔赛 adj.试验的； [法]审讯的
-athletics	|n. 体育运动，田径
-exemption	|n. 免除(税)
-trip	|n. 旅行,摔倒,差错,轻快的步伐 vt. 使跌倒,使犯错,使失败,起锚,竖帆 vi. 轻快地走,绊倒,失误,结巴,旅行
-jobless	|adj. 失业的
-personnel	|n.全体员工； （与复数动词连用）人员，员工； 人事部门
-relevance	|n. 中肯, 适当, 关联, 相关性
-shelter	|n. 庇护所,避难所,庇护 vt. &vi. 庇护,保护,隐匿
-fax	|n. 传真 v. 传真
+|	apartment  		|		n. 公寓；房间	|		
+|	apologize  		|		vi. 道歉；辩解；赔不是 vt. 道歉；谢罪；辩白	|		
+|	apology  		|		n. 道歉；谢罪；辩护；勉强的替代物	|		
+|	apostrophe  		|		n. 省略符号，撇号；呼语，顿呼	|		
+|	appalling  		|		adj. 可怕的；令人震惊的 v. 使惊愕；惊吓（appal的ing形式）	|		
+|	apparent  		|		adj. 显然的；表面上的	|		
+|	apparently  		|		adv. 显然地；似乎，表面上	|		
+|	appeal  		|		n. 呼吁，请求；吸引力，感染力；上诉；诉诸裁判 vt. 将…上诉，对…上诉 vi. 呼吁，恳求；上诉；诉诸，求助；有吸引力，迎合爱好；（体育比赛中）诉诸裁判	|		
+|	appealing  		|		v. 恳求（appeal的ing形式）；将…上诉 adj. 吸引人的；动人的；引起兴趣的；恳求似的	|		
+|	appear  		|		vi. 出现；显得；似乎；出庭；登场	|		
+|	appearance  		|		n. 外貌，外观；出现，露面	|		
+|	appendix  		|		n. 附录；阑尾；附加物	|		
+|	appetite  		|		n. 食欲；嗜好	|		
+|	apple  		|		n. 苹果，苹果树，苹果似的东西；[美俚]人，家伙。	|		
+|	appliance  		|		n. 器具；器械；装置	|		
+|	applicable  		|		adj. 可适用的；可应用的；合适的	|		
+|	applicant  		|		n. 申请人，申请者；请求者	|		
+|	application  		|		n. 应用；申请；应用程序；敷用	|		
+|	application-form  		|			|		
+|	applied  		|		v. 应用；实施（apply的过去分词）；敷上 adj. 应用的；实用的	|		
+|	apply  		|		vi. 申请；涂，敷；适用；请求 vt. 申请；涂，敷；应用	|

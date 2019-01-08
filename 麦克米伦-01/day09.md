@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-arc	|n. 弧,弧形物 vi. 形成电弧,按弧形轨迹行进
-miracle	|n. 奇迹
-away	|adv. 远离,离开,出去,连续的,遥远地
-excluding	|prep. 把 ... 排除在外，不计 动词exclude的现在分词形式
-carbon	|n. 碳,灯芯,复写纸
-warn	|vt. 警告,注意,远离 vi. 提醒
-quite	|adv. 很,十分
-burger	|n. 汉堡包
-fence	|n. 围墙, 剑术 v. 用篱笆围住, 练习剑术, 防护 [计算机] 栅栏
-seat	|n. 位子,所在地,中心 vi. 坐 vt. 使坐下,可容纳
-doubtful	|adj. 可疑的, 疑心的, 不确定的
-into	|prep. 到...里
-capitalist	|n. 资本家，资本主义者 adj. 资本主义的，有资本的
-dismiss	|vt.解雇，把…免职； 遣散，解散（队伍等）； 驳回，拒绝受理； 搁置 vi.解散
-spokesman	|n. 发言人
-stride	|n. 步伐,一大步,大步走,进步 vt. 跨骑,跨 vi. 岔开腿站立,迈大步走,跨过
-team	|n. 队,组 vt. 协同工作 vi. 结成一队 adj. 团队的
-economical	|adj. 节俭的, 经济的, 合算的
-closed	|adj. 关闭的, 封闭的, 停业的 动词close的过去式和过去分词
-spending	|n. 经费(开销)
+|	allocation  		|		n. 分配，配置；安置	|		
+|	allow  		|		vi. 容许；考虑 vt. 允许；给予；认可	|		
+|	allowance  		|		n. 津贴，零用钱；允许；限额 vt. 定量供应	|		
+|	all-right  		|		adj. 可靠的；很好的	|		
+|	ally  		|		n. 同盟国；伙伴；同盟者；助手 vt. 使联盟；使联合 vi. 联合；结盟 n. (Ally)人名；(巴基)阿利；(法)阿利；(英)艾丽(女子教名 Alice 的简称)；(尼日利)阿利	|		
+|	almost  		|		adv. 差不多，几乎	|		
+|	alone  		|		adj. 独自的；单独的；孤独的 adv. 独自地；单独地	|		
+|	along  		|		prep. 沿着；顺着 adv. 一起；向前；来到	|		
+|	alongside  		|		prep. 在……旁边 adv. 在旁边	|		
+|	aloud  		|		adv. 大声地；出声地	|		
+|	alphabet  		|		n. 字母表，字母系统；入门，初步 n. Google创建的名为Alphabet的公司，改变Google原有公司架构，旨在使其当下主要业务和长期投资项目间的区别更加清晰。	|		
+|	alphabetical  		|		adj. 按照字幕顺序的	|		
+|	already  		|		adv. 已经，早已；先前	|		
+|	also  		|		conj. 并且；另外 adv. 也；而且；同样 n. (Also)人名；(罗)阿尔索	|		
+|	alter  		|		vt. 改变，更改 vi. 改变；修改 n. (Alter)人名；(英)奥尔特；(德、捷、葡、爱沙、立陶、拉脱、俄、西、罗、瑞典)阿尔特	|		
+|	alteration  		|		n. 修改，改变；变更	|		
+|	alternative  		|		n. 二中择一；供替代的选择 adj. 供选择的；选择性的；交替的	|		
+|	alternatively  		|		adv. 非此即彼；二者择一地；作为一种选择	|		
+|	although  		|		conj. 尽管；虽然；但是；然而	|		
+|	altitude  		|		n. 高地；高度；	|		
+|	altogether  		|		n. 整个；裸体 adv. 完全地；总共；总而言之	|

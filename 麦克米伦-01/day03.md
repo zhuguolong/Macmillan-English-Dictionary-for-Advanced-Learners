@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-student	|n. 学生
-bicycle	|n. 自行车 v. 骑自行车
-lifespan	|n. 寿命，生命期
-palace	|n. 宫殿 adj. 宫殿的,殿堂级的
-firstly	|adv. 第一, 首先
-revolution	|n. 革命, 旋转, 转数
-foundation	|n. 基础；地基；基金会；根据；创立
-proposition	|n. （难办或诱人的）事情，任务；见解；观点；（美国的）法律修正案；提议；建议；提案 vt. 向…提出下流的要求；向…提出猥亵的要求
-clue	|n. 线索 vt. 提示
-consolidate	|v. 巩固,联合,统一 [计算机] 使固定
-toast	|n. 烤(土司)面包, 干杯, 祝酒, 受敬酒的人等 vt. 敬酒, 烤... vi. 烘烤
-surprised	|adj. 感到惊讶的 vbl. 感到惊讶
-miniature	|n. 缩图,小画像 adj. 小规模的,纤小的
-decision-making	|n. 决策 adj. 决策的
-suicide	|n.自杀； 自杀者； 自杀行为 vt.自杀 adj.自杀的
-huge	|adj. 巨大的,程度高的
-adopt	|v. 采用, 收养, 接受
-suspend	|v. 推迟,悬(浮),挂,暂停,取消 vi. 吊,悬浮 vt. 悬,挂,吊,暂停,中止
-dry	|adj. 干的，干燥的,干旱的，不行于色的，枯燥无味的，无酒的，口渴的 vt. 把...弄干 vi. （使）变干
-admire	|vt. 钦佩, 羡慕, 赞美
+|	according to  		|		根据，按照；取决于；据…所说	|		
+|	account  		|		n. 账户；解释；账目，账单；理由；描述 vt. 认为；把…视为 vi. 解释；导致；报账	|		
+|	accountant  		|		n. 会计师；会计人员	|		
+|	accounting  		|		n. 会计，会计学；账单 v. 解释（account的ing形式）；叙述	|		
+|	accumulate  		|		vt. 积攒 vi. 累积；积聚	|		
+|	accuracy  		|		n. 	|		
+|	accurate  		|		adj. 精确的	|		
+|	accusation  		|		n. 控告，指控；谴责	|		
+|	accuse  		|		vt. 控告，指控；谴责；归咎于 vi. 指责；控告	|		
+|	ache  		|		n. 疼痛 vi. 疼痛；渴望 n. (Ache)人名；(德)阿赫；(西)阿切	|		
+|	achieve  		|		vt. 取得；获得；实现；成功 vi. 达到预期的目的，实现预期的结果，如愿以偿	|		
+|	achievement  		|		n. 成就；完成；达到；成绩	|		
+|	acid  		|		n. 酸；&lt;俚&gt;迷幻药 adj. 酸的；讽刺的；刻薄的	|		
+|	acknowledge  		|		vt. 承认；答谢；报偿；告知已收到	|		
+|	acquaintance  		|		n. 熟人；相识；了解；知道	|		
+|	acquire  		|		vt. 获得；取得；学到；捕获	|		
+|	acquisition  		|		n. 获得物，获得；收购	|		
+|	acre  		|		n. 土地，地产；英亩	|		
+|	across  		|		prep. 穿过；横穿 adv. 横过；在对面	|		
+|	act  		|		n. 行为，行动；法令，法案；（戏剧，歌剧的）一幕，段；装腔作势 vt. 扮演；装作，举动像 vi. 行动；扮演，充当；表现，举止；假装，演戏；起作用，见效	|		
+|	acting  		|		n. 演技；演戏；假装 adj. 代理的；装腔作势的	|

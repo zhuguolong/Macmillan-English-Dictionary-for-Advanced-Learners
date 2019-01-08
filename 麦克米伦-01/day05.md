@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-bucket	|n. 水桶 vt. 装在桶里 vi. 急急忙忙
-log	|n. 记录,圆木,日志,计程仪 vt. 伐木,切,记录,航行,度过(时间) vi. 采伐
-accuse	|vt. 责备,控告
-full-time	|adj. 全部时间的，专任的
-correction	|n. 订正, 改正, 改正的地方
-mandate	|n. 命令, 指令, 要求，托管地 vt. 把(某一地区)置于委任管理下
-customs	|adj. 定做的(衣), 海关的 n. 海关
-device	|n. 装置, 设计, 策略, 设备
-cycle	|n. 循环,周期,长期,圈,套曲,自行车, vt. 环行,骑自行车 vi. 使环行
-weaken	|v. 使...弱, 变弱, 弄淡
-lose	|vt. 遗失,损失,失败,摆脱 vi. 丢失,失败 [计算机] 失去
-crime	|n. 犯罪, 羞耻, 罪行
-bearing	|n. [机] 轴承；关系；方位；举止 v. 忍受（bear的ing形式）
-raised	|adj. 凸起的, 浮雕的, 有凸起花纹的, 发酵的
-Mrs	|太太
-cartoon	|n. 动画片 vt. 为...画漫画
-similarity	|n. 相似, 类似
-packing	|n. 包装
-hotel	|n. 旅馆，宾馆，酒店，饭店
-evidently	|adv. 明显地, 显著地, 必以为是
+|	adjust  		|		vt. 调整，使…适合；校准 vi. 调整，校准；适应	|		
+|	adjustment  		|		n. 调整，调节；调节器	|		
+|	administration  		|		n. 管理；行政；实施；行政机构	|		
+|	administrative  		|		adj. 管理的，行政的	|		
+|	administrator  		|		n. 管理人；行政官	|		
+|	admiration  		|		n. 钦佩；赞赏；羡慕；赞美	|		
+|	admire  		|		vt. 钦佩；赞美 vi. 钦佩；称赞	|		
+|	admission  		|		n. 承认；入场费；进入许可；坦白；录用	|		
+|	admit  		|		vi. 承认；容许 vt. 承认；准许进入；可容纳	|		
+|	admittedly  		|		adv. 公认地；无可否认地；明白地	|		
+|	adolescent  		|		n. 青少年 adj. 青春期的；未成熟的	|		
+|	adopt  		|		vi. 采取；过继 vt. 采取；接受；收养；正式通过	|		
+|	adoption  		|		n. 采用；收养；接受	|		
+|	adult  		|		n. 成年人 adj. 成年的；成熟的	|		
+|	advance  		|		n. 发展；前进；增长；预付款 adj. 预先的；先行的 vt. 提出；预付；使……前进；将……提前 vi. 前进；进展；上涨	|		
+|	advanced  		|		adj. 先进的；高级的；晚期的；年老的 v. 前进；增加；上涨（advance的过去式和过去分词形式）	|		
+|	advantage  		|		n. 优势；利益；有利条件 vt. 有利于；使处于优势 vi. 获利	|		
+|	adventure  		|		n. 冒险；冒险精神；投机活动 vt. 冒险；大胆说出 vi. 冒险	|		
+|	adverb  		|		n. 副词 adj. 副词的	|		
+|	adverse  		|		adj. 不利的；相反的；敌对的（名词adverseness，副词adversely）	|		
+|	advert  		|		vi. 注意；谈到 n. 广告 n. (Advert)人名；(法)阿德韦尔	|

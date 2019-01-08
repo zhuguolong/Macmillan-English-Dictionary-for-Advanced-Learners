@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-temper	|n. 脾气；（钢等）回火；性情；倾向 vt. 使回火；锻炼；调和；使缓和 vi. 回火；调和
-anchor	|n. 铁锚 vt. &vi. 停泊,抛锚,用锚系住,担任（广播，电视新闻节目）的主持人
-preserve	|vt.保护； 保持，保存； 腌制食物； 防腐处理 vi.保鲜； 保持原状； 做蜜饯； 禁猎 n.蜜饯； 防护用品； 禁猎地； 独占的事物（或范围）
-accessory	|adj. 附属的(副的,辅助的) n. 附件，同谋
-drop	|n. 滴,微量,落下 vt. 使落下，减少 vi. 落下，减少，减弱
-watch	|n. 手表,注视 vt. 观察,监视,注视,照顾,等待 vi. 留意,观察
-heap	|n. 堆,许多,累积 vt. 使成堆,装满 [计算机] 堆
-carving	|n. 雕刻品, 雕刻, 雕刻术 动词carve的现在分词
-sudden	|n. 突然, 忽然 adj. 突然的, 快速的
-official	|adj. 官方的,正式的,有权威的 n. 官员
-happiness	|n. 快乐,幸福,适当
-signing	|n. 签署, 签字 动词sign的现在分词形式
-score	|n.得分； 分数； 总谱； 20个 v.得分； 记分； 评分； 获得胜利
-pace	|n. 速度,步调,步法 vt. 踱步,调整节奏 vi. 缓慢地走
-shuffle	|n. 拖著脚走,洗纸牌 vt. &vi. 拖曳,慢吞吞地走
-cholesterol	|n. 胆固醇
-premature	|adj. 早熟的,过早的,不按时的 n. 早产儿,早发
-wildlife	|n. 野生动物
-cookery	|n. 烹调法, 烹调术
-text	|n. 本文, 文件, 正文, 课文 vt. &vi. 发短信
+|	aspect  		|		n. 方面；方向；形势；外貌	|		
+|	aspiration  		|		n. 渴望；抱负；送气；吸气；吸引术	|		
+|	aspire  		|		vi. 渴望；立志；追求	|		
+|	aspirin  		|		n. 阿司匹林（解热镇痛药）	|		
+|	assassination  		|		n. 暗杀，行刺	|		
+|	assault  		|		n. 攻击；袭击 vt. 攻击；袭击 vi. 袭击；动武	|		
+|	assemble  		|		vt. 集合，聚集；装配；收集 vi. 集合，聚集	|		
+|	assembly  		|		n. 装配；集会，集合	|		
+|	assert  		|		vt. 维护，坚持；断言；主张；声称	|		
+|	assertion  		|		n. 断言，声明；主张，要求；坚持；认定	|		
+|	assess  		|		vt. 评定；估价；对…征税	|		
+|	assessment  		|		n. 评定；估价	|		
+|	assign  		|		vt. 分配；指派；[数] 赋值 vi. 将财产过户（尤指过户给债权人）	|		
+|	assignment  		|		n. 分配；任务；作业；功课	|		
+|	assist  		|		n. 帮助；助攻 vi. 参加；出席 vt. 帮助；促进	|		
+|	assistance  		|		n. 帮助	|		
+|	assistant  		|		n. 助手，助理，助教 adj. 辅助的，助理的；有帮助的	|		
+|	associate  		|		n. 同事，伙伴；关联的事物 adj. 副的；联合的 vt. 联想；使联合；使发生联系 vi. 交往；结交	|		
+|	association  		|		n. 协会，联盟，社团；联合；联想	|		
+|	assume  		|		vt. 僭取；篡夺；夺取；擅用；侵占 vi. 假定；设想；承担；采取	|		
+|	assuming  		|		v. 假设（assume的ing形式） adj. 傲慢的；不逊的；僭越的	|

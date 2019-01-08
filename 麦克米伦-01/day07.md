@@ -1,22 +1,23 @@
 |单词|翻译  |
 |:--:|--| 
-equally	|adv. 相等地, 同样地, 平等地
-contradiction	|n. 反驳,矛盾,不一致,否认
-inclusion	|n. 包含
-black	|adj.黑（色）的； 黑色人种的； 黑暗的 n.黑色； 黑人； 黑颜料； 黑暗 v.使变黑； 抵制； 拒绝； 使变黑暗
-interview	|n. 面谈,访问,接见 vt. 接见,对...进行面谈(试) vi. 面试, 采访
-consequence	|n. 结果,后果
-beating	|v.挫败 n.打,敲打
-family	|adj. 家庭的 n. 家庭
-block	|n.块； 街区； <英>大楼，大厦； 障碍物，阻碍 vt.阻止； 阻塞； 限制
-look	|n. 看, 神色, 样子, 脸色 vi. 看, 注意, 朝着, 好象, 显得 vt. 打量, 注视, 用眼神或脸色表示, 期待
-vitamin	|n. 维生素
-dip	|n. 游;下降,减少,低洼处,调味酱,药浴液 vt. 蘸,浸;给...洗药浴 vi. 浸,下降,向下倾斜,翻阅,提取(款项)
-discover	|vt.& vi.发现
-abbreviation	|n. 缩写
-silly	|adj. 愚蠢的,淳朴的,晕的
-curiosity	|n. 好奇, 好奇心
-running	|n. 跑步;经营,管理 adj. 奔跑的;流动的;运转中的 adv. 连续地
-census	|n. 户口普查 v. 实施统计调查
-theoretical	|adj. 理论上的
-reply	|vt. &vi. &n. 回答,答复
+|	agency  		|		n. 代理，中介；代理处，经销处	|		
+|	agenda  		|		n. 议程；日常工作事项；日程表	|		
+|	agent  		|		n. 代理人，代理商；药剂；特工 adj. 代理的 vt. 由…作中介；由…代理 n. (Agent)人名；(罗)阿真特	|		
+|	aggression  		|		n. 侵略；进攻；侵犯；侵害	|		
+|	aggressive  		|		adj. 侵略性的；好斗的；有进取心的；有闯劲的	|		
+|	ago  		|		adj. 以前的；过去的 adv. 以前，以往 n. (Ago)人名；(英、西、意、塞、瑞典)阿戈	|		
+|	agony  		|		n. 苦恼；极大的痛苦；临死的挣扎	|		
+|	agree  		|		vi. vi. 同意，意见一致；约定，商定 vt. 同意，赞成；承认；约定，商定	|		
+|	agreed  		|		v. 同意；赞成（agree的过去式） adj. 同意的；通过协议的	|		
+|	agreement  		|		n. 协议；同意，一致	|		
+|	agricultural  		|		adj. 农业的；农艺的	|		
+|	agriculture  		|		n. 农业；农耕；农业生产；农艺，农学	|		
+|	ahead  		|		adj. 向前；在前的；领先 adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来	|		
+|	aid  		|		n. 援助；帮助；助手；帮助者 vt. 援助；帮助；有助于 vi. 帮助 n. (Aid)人名；(阿拉伯、印、英)艾德	|		
+|	AIDS / Aids  		|		n. 艾滋病	|		
+|	aim  		|		n. 目的；目标；对准 vt. 目的在于；引导；把…对准 vi. 打算；对准目标；瞄准	|		
+|	air  		|		n. 空气，大气；天空；样子；曲调 vt. 使通风，晾干；夸耀 vi. 通风	|		
+|	air-conditioning  		|		n. 空调系统；空气调节	|		
+|	aircraft  		|		n. 飞机，航空器	|		
+|	air-force  		|		空军	|		
+|	airline  		|		n. 航空公司；航线 adj. 航线的	|
